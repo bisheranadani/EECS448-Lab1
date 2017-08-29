@@ -1,3 +1,3 @@
 What you're about to see is a conflict:
 
-var x = "GRAPEFRUIT";
+var x = "apples";
